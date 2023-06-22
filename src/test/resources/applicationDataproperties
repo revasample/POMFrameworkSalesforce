@@ -1,0 +1,13 @@
+SFurl=https://login.salesforce.com/
+login.valid.userid= revathi@tekarch.com
+login.valid.password=Samaashu4
+login.invalid.userid=admin1@gmail.com
+login.invalid.password=""
+login.wrong.userid=samyu@tekarch.com
+login.wrong.password=Aashu2
+
+last.name=ABCD
+company.name=ABCD
+
+clast.name=guru
+account.name=United Oil & Gas Corp.

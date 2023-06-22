@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-21T21:46:31 EDT" name="Default suite" finished-at="2023-06-21T21:47:28 EDT" duration-ms="56643">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T21:46:31 EDT" name="Default test" finished-at="2023-06-21T21:47:28 EDT" duration-ms="56643">
+      <class name="com.automation.tests.AutomationScripts">
+        <test-method is-config="true" signature="setUpForBeforeTest()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:46:31 EDT" name="setUpForBeforeTest" finished-at="2023-06-21T21:46:31 EDT" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForBeforeTest -->
+        <test-method signature="Check_New_Button_on_Leads_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:46:31 EDT" name="Check_New_Button_on_Leads_testscript" finished-at="2023-06-21T21:46:40 EDT" duration-ms="9022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_New_Button_on_Leads_testscript -->
+        <test-method signature="Check_RememberMe_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:46:40 EDT" name="Check_RememberMe_testscript" finished-at="2023-06-21T21:46:47 EDT" duration-ms="6440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_RememberMe_testscript -->
+        <test-method signature="Check_leads_Tab_Link_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:46:47 EDT" name="Check_leads_Tab_Link_testscript" finished-at="2023-06-21T21:46:54 EDT" duration-ms="6885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_leads_Tab_Link_testscript -->
+        <test-method signature="Create_New_Contact_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:46:54 EDT" name="Create_New_Contact_testscript" finished-at="2023-06-21T21:47:01 EDT" duration-ms="7062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_New_Contact_testscript -->
+        <test-method signature="Forgot_PasswordA_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:47:01 EDT" name="Forgot_PasswordA_testscript" finished-at="2023-06-21T21:47:02 EDT" duration-ms="1384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Forgot_PasswordA_testscript -->
+        <test-method signature="List_Item_Todays_Leads_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:47:02 EDT" name="List_Item_Todays_Leads_testscript" finished-at="2023-06-21T21:47:09 EDT" duration-ms="7127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_Item_Todays_Leads_testscript -->
+        <test-method signature="Login_Error_Salesforce_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:47:09 EDT" name="Login_Error_Salesforce_testscript" finished-at="2023-06-21T21:47:12 EDT" duration-ms="2628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Error_Salesforce_testscript -->
+        <test-method signature="Login_to_Salesforce_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:47:12 EDT" name="Login_to_Salesforce_testscript" finished-at="2023-06-21T21:47:16 EDT" duration-ms="4076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_to_Salesforce_testscript -->
+        <test-method signature="Validate_LoginErrorB_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:47:16 EDT" name="Validate_LoginErrorB_testscript" finished-at="2023-06-21T21:47:21 EDT" duration-ms="5386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_LoginErrorB_testscript -->
+        <test-method signature="Validate_View_Dropdown_List_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@38cee291]" started-at="2023-06-21T21:47:21 EDT" name="Validate_View_Dropdown_List_testscript" finished-at="2023-06-21T21:47:28 EDT" duration-ms="6275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_View_Dropdown_List_testscript -->
+      </class> <!-- com.automation.tests.AutomationScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

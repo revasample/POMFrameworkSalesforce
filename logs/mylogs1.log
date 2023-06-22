@@ -1,0 +1,390 @@
+20230609 17:32:37 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230609 17:33:49 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230609 17:34:54 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230609 17:39:58 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230609 17:39:59 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230609 17:39:59 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230609 17:40:00 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230609 17:40:00 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230609 17:40:00 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230609 17:40:00 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230609 17:40:00 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230609 17:40:00 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230609 17:40:23 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230609 17:40:24 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230609 17:40:24 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230609 17:40:25 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230609 17:40:25 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230609 17:40:25 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230609 17:40:25 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230609 17:40:25 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230609 17:41:16 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230609 17:41:17 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230609 17:41:17 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230609 17:41:17 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230609 17:41:17 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230609 17:41:19 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230609 17:41:19 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230609 17:41:19 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230609 17:41:19 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230611 18:56:35 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 18:56:36 INFO  [main] base.BaseTest BaseTest.java126 - https://login.salesforce.com/is entered
+20230611 18:56:37 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 18:56:37 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 18:56:45 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 18:56:46 INFO  [main] base.BaseTest BaseTest.java126 - https://login.salesforce.com/is entered
+20230611 18:56:47 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 18:56:47 INFO  [main] tests.AutomationScripts AutomationScripts.java122 - testscript forgot_passwordA execution completed
+20230611 18:56:47 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 18:56:49 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 18:56:49 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230611 18:56:49 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 18:56:49 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230611 18:56:49 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230611 18:56:49 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230611 18:56:49 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 18:56:49 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230611 18:56:50 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 18:56:51 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 18:56:51 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230611 18:56:52 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 18:56:52 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230611 18:56:52 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230611 18:56:52 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230611 19:02:34 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:02:35 INFO  [main] base.BaseTest BaseTest.java126 - https://login.salesforce.com/is entered
+20230611 19:02:35 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 19:02:35 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 19:02:43 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 19:02:43 INFO  [main] tests.AutomationScripts AutomationScripts.java107 - testscript check_rememberme execution completed
+20230611 19:02:44 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:02:45 INFO  [main] base.BaseTest BaseTest.java126 - https://login.salesforce.com/is entered
+20230611 19:02:45 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 19:02:45 INFO  [main] tests.AutomationScripts AutomationScripts.java122 - testscript forgot_passwordA execution completed
+20230611 19:02:46 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:02:46 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 19:02:46 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230611 19:02:47 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 19:02:47 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230611 19:02:47 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230611 19:02:47 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230611 19:02:47 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 19:02:47 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230611 19:02:48 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:02:49 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 19:02:49 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230611 19:02:49 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 19:02:49 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230611 19:02:49 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230611 19:02:49 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230611 19:03:21 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:03:21 INFO  [main] base.BaseTest BaseTest.java126 - https://login.salesforce.com/is entered
+20230611 19:03:22 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 19:03:22 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 19:03:30 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 19:03:30 INFO  [main] tests.AutomationScripts AutomationScripts.java107 - testscript check_rememberme execution completed
+20230611 19:05:03 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:05:04 INFO  [main] base.BaseTest BaseTest.java126 - https://login.salesforce.com/is entered
+20230611 19:05:04 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 19:05:04 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 19:05:14 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 19:05:14 INFO  [main] tests.AutomationScripts AutomationScripts.java107 - testscript check_rememberme execution completed
+20230611 19:05:15 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:05:15 INFO  [main] base.BaseTest BaseTest.java126 - https://login.salesforce.com/is entered
+20230611 19:05:15 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 19:05:15 INFO  [main] tests.AutomationScripts AutomationScripts.java122 - testscript forgot_passwordA execution completed
+20230611 19:05:16 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:05:17 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 19:05:17 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230611 19:05:17 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 19:05:17 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230611 19:05:18 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230611 19:05:18 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230611 19:05:18 INFO  [main] base.BaseTest BaseTest.java131 - current browser closed
+20230611 19:05:18 INFO  [main] tests.AutomationScripts AutomationScripts.java77 - testscript login execution completed
+20230611 19:05:19 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230611 19:05:20 INFO  [main] base.BaseTest BaseTest.java99 - Pass:username is entered to the username field
+20230611 19:05:20 INFO  [main] base.BaseTest BaseTest.java84 - username entered
+20230611 19:05:20 INFO  [main] base.BaseTest BaseTest.java99 - Pass:password is entered to the username field
+20230611 19:05:20 INFO  [main] base.BaseTest BaseTest.java88 - password entered
+20230611 19:05:20 INFO  [main] base.BaseTest BaseTest.java109 - pass:login buttonelement cleared
+20230611 19:05:20 INFO  [main] base.BaseTest BaseTest.java92 - button clicked
+20230612 21:25:12 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=null
+20230612 21:28:10 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=null
+20230612 21:32:31 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 21:32:31 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (4bc201d2ceda04c3a3e27da160fe34ae)
+20230612 21:34:29 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 21:35:34 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (369e25235e3e103a2ec88f265e6038bd)
+20230612 21:53:02 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 21:53:02 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (cf4acd42da41cc5c9c4003e519218766)
+20230612 21:53:03 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230612 21:53:03 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230612 21:53:03 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230612 21:53:04 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230612 21:53:04 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (cf4acd42da41cc5c9c4003e519218766)
+20230612 21:55:40 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=null
+20230612 21:55:42 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 21:55:42 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (35feb8c1e8d4ed6bd6f787714c2c6682)
+20230612 21:55:43 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230612 21:55:43 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230612 21:55:43 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230612 21:55:43 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230612 21:55:43 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (35feb8c1e8d4ed6bd6f787714c2c6682)
+20230612 21:57:12 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 21:57:12 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (c7e670795814f15c3d6e1ffd52e3b361)
+20230612 21:57:13 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230612 21:57:14 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230612 21:57:14 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230612 21:57:14 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230612 21:57:14 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (c7e670795814f15c3d6e1ffd52e3b361)
+20230612 22:02:31 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 22:02:31 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (4c028d7e9294aa0474ddb3da8c03f172)
+20230612 22:02:32 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230612 22:02:32 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230612 22:02:32 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230612 22:02:33 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230612 22:02:33 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (4c028d7e9294aa0474ddb3da8c03f172)
+20230612 22:04:05 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 22:04:05 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (6cdeb3603983ee65d0c9b69c2ca3b27a)
+20230612 22:04:06 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230612 22:04:06 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230612 22:04:07 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230612 22:04:07 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230612 22:04:07 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (6cdeb3603983ee65d0c9b69c2ca3b27a)
+20230612 22:04:11 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230612 22:04:11 INFO  [main] tests.AutomationScripts AutomationScripts.java86 - testscript login execution completed
+20230612 22:10:43 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 22:10:43 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (31437ff5d05172c6333e5655eac88c71)
+20230612 22:10:46 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230612 22:10:47 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230612 22:10:47 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230612 22:10:54 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230612 22:10:54 INFO  [main] tests.AutomationScripts AutomationScripts.java122 - testscript check_rememberme execution completed
+20230612 22:10:55 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 22:10:55 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (d3c40ae43dd0314c3305769235416ea4)
+20230612 22:10:56 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230612 22:10:56 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230612 22:10:56 INFO  [main] tests.AutomationScripts AutomationScripts.java142 - testscript forgot_passwordA execution completed
+20230612 22:10:57 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230612 22:10:57 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (5940be46ea8b17ec9ee1acc6b6134280)
+20230612 22:10:58 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230612 22:10:58 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230612 22:10:58 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230612 22:10:59 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230612 22:10:59 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (5940be46ea8b17ec9ee1acc6b6134280)
+20230612 22:11:01 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230612 22:11:01 INFO  [main] tests.AutomationScripts AutomationScripts.java89 - testscript login execution completed
+20230617 17:26:52 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:26:52 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:26:52 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (0ca35313f217d330afe30336b380b5c8)
+20230617 17:26:52 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (a0cb7b27a7809f6bbe03d4d087d789ce)
+20230617 17:26:53 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:26:53 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:26:53 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:26:54 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:26:54 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:26:54 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:27:01 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:27:01 INFO  [main] tests.AutomationScripts AutomationScripts.java122 - testscript check_rememberme execution completed
+20230617 17:27:02 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:27:02 INFO  [main] tests.AutomationScripts AutomationScripts.java122 - testscript check_rememberme execution completed
+20230617 17:27:02 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:27:02 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (e3016365d4111441c9beb0001ae889d8)
+20230617 17:27:02 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:27:02 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (7ffe3775246576a26a612d2f1c6aa052)
+20230617 17:27:03 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:27:03 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:27:03 INFO  [main] tests.AutomationScripts AutomationScripts.java142 - testscript forgot_passwordA execution completed
+20230617 17:27:03 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:27:04 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:27:04 INFO  [main] tests.AutomationScripts AutomationScripts.java142 - testscript forgot_passwordA execution completed
+20230617 17:27:04 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:27:04 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (61255c799127b005bcb645057e940f94)
+20230617 17:27:05 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:27:05 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (f6356bc63535f5a9a9b0cc2f534f09c6)
+20230617 17:27:05 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:27:05 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:27:05 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:27:06 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:27:06 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:27:06 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:27:07 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 17:27:07 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (61255c799127b005bcb645057e940f94)
+20230617 17:27:08 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 17:27:08 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (f6356bc63535f5a9a9b0cc2f534f09c6)
+20230617 17:27:09 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:27:09 INFO  [main] tests.AutomationScripts AutomationScripts.java89 - testscript login execution completed
+20230617 17:27:09 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:27:09 INFO  [main] tests.AutomationScripts AutomationScripts.java89 - testscript login execution completed
+20230617 17:31:40 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:31:40 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (3a2d16f648fc92b0587e67d48997cf08)
+20230617 17:31:41 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:31:41 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:31:42 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:31:42 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 17:31:42 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (3a2d16f648fc92b0587e67d48997cf08)
+20230617 17:31:45 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:31:45 INFO  [main] tests.AutomationScripts AutomationScripts.java88 - testscript login execution completed
+20230617 17:39:52 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:39:52 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (c45ffc33397a02e6ce39b498d86a3cc0)
+20230617 17:39:53 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:39:53 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:39:53 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:39:59 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:39:59 INFO  [main] tests.AutomationScripts AutomationScripts.java120 - testscript check_rememberme execution completed
+20230617 17:40:00 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:40:00 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (7cae25b68eb07f2bc1d2f662c60e2049)
+20230617 17:40:01 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:40:01 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:40:01 INFO  [main] tests.AutomationScripts AutomationScripts.java140 - testscript forgot_passwordA execution completed
+20230617 17:40:02 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:40:02 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (a68e6a228616a63c30be32b1c8e33920)
+20230617 17:40:03 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:40:03 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:40:03 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:40:03 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 17:40:03 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (a68e6a228616a63c30be32b1c8e33920)
+20230617 17:41:50 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:41:50 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (47a1e3a14a28d8d069bf5ebe46d00350)
+20230617 17:41:51 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:41:51 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:41:51 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:41:57 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:41:57 INFO  [main] tests.AutomationScripts AutomationScripts.java120 - testscript check_rememberme execution completed
+20230617 17:41:58 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:41:58 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (e238f9320b7c5bad5ba2fa761c528c3e)
+20230617 17:41:59 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:41:59 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:41:59 INFO  [main] tests.AutomationScripts AutomationScripts.java140 - testscript forgot_passwordA execution completed
+20230617 17:42:00 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:42:00 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (3ce674cdafa5d1ce4aeac70038218a33)
+20230617 17:42:01 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:42:01 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:42:01 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:42:02 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 17:42:02 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (3ce674cdafa5d1ce4aeac70038218a33)
+20230617 17:42:04 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 17:42:04 INFO  [main] tests.AutomationScripts AutomationScripts.java88 - testscript login execution completed
+20230617 17:58:58 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 17:58:58 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (1606a26273b1b701bbce6f2d0347cb2e)
+20230617 17:58:59 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 17:58:59 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 17:59:00 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 17:59:00 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:00:00 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:00:00 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (644719b74e768647cc30b3d6215277cf)
+20230617 18:00:01 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:00:01 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:00:01 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:00:02 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:00:06 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 18:02:52 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:02:52 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (c53b4d2c71ee3e1b8c237ab1a5a76984)
+20230617 18:02:53 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:02:53 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:02:53 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:02:55 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:03:36 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:03:36 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (a728f7f7008f6fd3575fe3f033f66b0b)
+20230617 18:03:37 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:03:37 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:03:37 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:03:38 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:03:42 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 18:04:39 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:04:39 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (046e39b6df5d1eba905f62a7a64ee370)
+20230617 18:04:40 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:04:40 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:04:40 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:04:41 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:06:21 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:06:21 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (b434f71882708119b5a2fee629107069)
+20230617 18:06:22 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:06:22 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:06:22 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:06:23 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:07:43 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:07:43 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (0fde433909008309474af90961003c77)
+20230617 18:07:44 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:07:44 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:07:44 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:07:44 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:07:48 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 18:08:26 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:08:26 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (cc0476f7557c84c2214539dcdc66075c)
+20230617 18:08:27 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:08:27 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:08:28 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:08:28 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:08:32 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 18:09:13 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:09:13 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (1336cd6a937b7483cd20c3ef2d4046fb)
+20230617 18:09:14 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:09:14 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:09:14 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:09:15 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:09:19 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:09:19 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (814d57fbfab60f5c2468ec7f92c80148)
+20230617 18:09:20 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:09:20 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:09:20 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:09:26 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 18:09:26 INFO  [main] tests.AutomationScripts AutomationScripts.java126 - testscript check_rememberme execution completed
+20230617 18:09:27 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:09:27 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (44add5001e6e8f04169f1fdb97e9f039)
+20230617 18:09:27 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:09:28 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:09:28 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:09:29 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:09:33 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230617 18:09:46 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:09:46 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (c439bb23a766c136ff014f1046fe5fdf)
+20230617 18:09:47 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:09:47 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:09:48 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:09:48 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230617 18:10:59 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230617 18:10:59 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (841477cc9adacd9c10131f5e68e0f81e)
+20230617 18:11:00 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230617 18:11:00 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230617 18:11:01 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230617 18:11:02 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230619 09:58:12 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230619 09:58:12 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (58d75dc72c4ad60d68aef1a6caa38e23)
+20230619 09:58:13 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230619 09:58:13 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230619 09:58:14 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230619 09:58:24 INFO  [main] base.BasePage BasePage.java55 - pass:login buttonelement cleared
+20230619 09:58:24 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (58d75dc72c4ad60d68aef1a6caa38e23)
+20230619 09:58:24 INFO  [main] base.BaseTest BaseTest.java85 - current browser closed
+20230619 09:58:24 INFO  [main] tests.AutomationScripts AutomationScripts.java94 - testscript login execution completed
+20230619 22:05:02 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230619 22:05:02 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (c548efdeab775edb8e2efb3a22bbcc45)
+20230619 22:05:03 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230619 22:05:03 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230619 22:05:03 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230619 22:08:13 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230619 22:08:13 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (79d7c4e3444dcb77962aac9b558fbf44)
+20230619 22:08:14 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230619 22:08:14 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230619 22:08:14 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230619 22:09:42 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230619 22:09:42 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (339077dc7d582a1f2572282cf4eade0a)
+20230619 22:09:43 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230619 22:09:43 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230619 22:09:43 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230619 22:16:15 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230619 22:16:15 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (fb7650d36eb3e871a7a6eda754e6b416)
+20230619 22:16:16 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230619 22:16:16 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230619 22:16:17 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230619 22:17:54 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230619 22:17:54 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (7b5a47f03265a0ca3ca25cdcaf28dd62)
+20230619 22:17:55 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230619 22:17:55 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230619 22:17:55 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
+20230619 22:20:33 INFO  [main] base.BaseTest BaseTest.java73 - Chrome browser launched
+20230619 22:20:33 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (70b676bb31c790ea97b7e04d25ba6753)
+20230619 22:20:34 INFO  [main] base.BasePage BasePage.java78 - https://login.salesforce.com/is entered
+20230619 22:20:34 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username field
+20230619 22:20:34 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username field
